@@ -24,7 +24,10 @@ Here are some ideas to get you started:
 
 <h2>📜 Certifications:</h2>
 
-  - [Link Title](Link)
+  - [CompTia Security+](Link)
+  - [Network+](Link)
+  - [PCCET](Link)
+  - [Splunk Certified User](Link)
 
 <h2>🛡️ Information Security Projects</h2>
 
